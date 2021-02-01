@@ -7,7 +7,8 @@
   "context": "..",
 
   // Update the 'dockerFile' property if you aren't using the standard 'Dockerfile' filename.
-  "dockerFile": "./devcontainer.dockerfile",
+  // "dockerFile": "./devcontainer.dockerfile",
+  "image": "letitblend/dev-env-vuejs:n14-v2",
 
   // Set *default* container specific settings.json values on container create.
   "settings": {
