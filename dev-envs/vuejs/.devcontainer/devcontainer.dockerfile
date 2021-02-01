@@ -1,0 +1,1 @@
+FROM letitblend/dev-env-vuejs:n14-v2
